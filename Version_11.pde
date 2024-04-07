@@ -1,7 +1,5 @@
 /**
-* This is our sexy project.
-*
-*
+* This is the final version of our group project.
 *
 * @author Jenn Causey, Rebecca McJarrow, Jarren Ralf
 * @version 7.0
